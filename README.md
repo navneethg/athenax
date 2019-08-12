@@ -1,2 +1,2 @@
-# athenax
-AWS Athena Extensions
+# libathena
+Python library to work with AWS Athena. 
